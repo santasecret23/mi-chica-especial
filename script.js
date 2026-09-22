@@ -159,7 +159,7 @@ function initLoveButton() {
 
     if (!clicked) {
       clicked = true;
-      btn.textContent = 'Y yo más 🖤';
+      btn.textContent = 'Espero te haya gustado 🌼';
     }
   });
 }
